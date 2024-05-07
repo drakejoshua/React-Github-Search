@@ -1,8 +1,9 @@
-# React + Vite
+# React-Github-Search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sample web project that i'm using to practice how to use React by building a simple github user search app
+and sharpen react usage on tools like react lifecycle methods( for class components )
+google fonts, material symbols, prop-types and tailwindCSS.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a simple react webapp( built using vite, react, github users API google fonts, material symbols, prop-types and tailwindCSS. ). 
+This project is just to illustrate my usage and to also learn preliminary parts of react( such as: class components, states, etc ). 
+It's a complete beginner project and posses no advance level code just plain react and usage of simple external framworks.
