@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+body {
+  margin: 0px;
+}
+
+.loader-pane-child {
+  @apply bg-gray-900 px-12 py-16 mt-10 flex flex-col items-center gap-y-6 rounded-xl border-2 border-gray-200;
+}
